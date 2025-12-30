@@ -1,7 +1,7 @@
 # courseVista
 
 ## Overview
-courseVista is a JavaScript-based project designed to help manage and view courses effectively.
+CourseVista is a JavaScript-based project designed to help manage and view courses effectively.
 
 ## Features
 - List and view courses
@@ -17,8 +17,9 @@ npm install
 You can create a new file named `README.md` in the root of your repository and add the above content.
 
 ## Live URLs
-Frontend: https://stunning-melba-6c2d8f.netlify.app  
-Backend: https://coursevista-sj2w.onrender.com  
+## Live URLs
+Frontend: https://coursevista24.netlify.app/
+Backend: https://coursevista-sj2w.onrender.com 
 
 ## Tech Stack
 - Frontend: React, Tailwind CSS
